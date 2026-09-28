@@ -1,0 +1,5 @@
+discord.py>=2.0,<3.0
+SudachiPy>=0.6.8
+SudachiDict-core>=20230110
+python-dotenv>=1.0,<2.0
+Pillow>=10.0,<13.0
